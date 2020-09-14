@@ -1,2 +1,2 @@
 # hello-world
-Just my first repository
+Heyo! This is gonna be LEGENDARY!
